@@ -223,7 +223,8 @@ class StockSimulator:
 
 
 #######################################################################################################################
-# This code is written by Jongheon Yeo @ SNU ECE
+# This code is written by Jongheon Yeo a.k.a. H0neying@ SNU ECE
+# If you want to contact me, please send an email via zkdnqh12@snu.ac.kr
 # Below is Input Example
 
 '''
